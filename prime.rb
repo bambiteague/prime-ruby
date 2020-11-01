@@ -11,5 +11,5 @@ def prime?(i)
         return false if i % num == 0
     end
     true
-  
+    
 end
